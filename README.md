@@ -19,6 +19,13 @@ useTemplateRef    ~    useRef
 	custom directives = low-level DOM logic
 	plugins = global stuff
 
+### Vue Likes
+- Vue uses compile-time optimizations
+- Vue is more ergonomic
+- Vue has great documentation
+- Vue has nice ecosystem: vite, pinia, official router, vitest, volar, devtools, nuxt
+- Vue source code is very readable
+
 ### Types
 - Vue types are in the main repo; React's are in DefinitelyTyped
 
